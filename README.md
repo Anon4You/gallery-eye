@@ -35,7 +35,7 @@ Builds an Android application packaged with a custom WebView and integrated with
 
 ## 🚀 Usage
 
-Clone the repo (https://github.com/Anon4You/gallery-eye.git) and run:
+Clone the repo and run:
 
 ```bash
 bash install_requirements.sh
